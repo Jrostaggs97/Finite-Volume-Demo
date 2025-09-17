@@ -1,4 +1,4 @@
-# Finite-Volume-Demo (Commented)
+# Finite-Volume-Demo 
 
 Short, self-contained demos of 1D hyperbolic solvers with **clean, commented code**:
 
